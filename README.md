@@ -11,3 +11,6 @@ To .iso της διανομής λόγω μεγέθους (3.7GB) μπορείτ
 Οι οδηγίες χρήσης για την εφαρμογή βρίσκονται [εδώ] (https://github.com/ellak-monades-aristeias/Edu-PreSchool/blob/master/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82%20%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7.pdf)
 
 Οι οδηγίες για την περαιτέρω ανάπτυξη του κώδικα βρίσκονται [εδώ] (https://github.com/ellak-monades-aristeias/Edu-PreSchool/blob/master/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82%20Developers.pdf)
+
+# Παραδοτέο
+Το παραδοτέο είναι το .iso της διανομής που έχουμε δημιουργήσει και είναι διαθέσιμο [εδώ] (https://drive.bitcasa.com/send/iqEhvqqf79MSpMGEi67EOSaiilGkRQ9egmM0vAo2IpaW)
