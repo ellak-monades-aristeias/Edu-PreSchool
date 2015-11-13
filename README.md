@@ -18,3 +18,11 @@ To .iso της διανομής λόγω μεγέθους (3.7GB) μπορείτ
 Περιγραφή: Διανομή Ubuntu εμπλουτισμένη με λογισμικά και υλικό για την Προσχολική Αγωγή
 
 Διανομή: Το .iso της διανομής που έχουμε δημιουργήσει είναι διαθέσιμο [εδώ] (https://drive.bitcasa.com/send/iqEhvqqf79MSpMGEi67EOSaiilGkRQ9egmM0vAo2IpaW)
+
+# Edu-PreSchool
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/5394554/10328327/acb36634-6cbb-11e5-8c68-3e3aab5a6dc7.png"/>
+</p>
+<p align="justify">
+
+Edu-PreSchool is a distribution for the Preschool Education, which contains all approved by the Greek Ministry of Education software and other digital material (eg, ebooks) and popular software that is free for use online. The .iso distribution due to size (3.7GB) can be downloaded from the wiki (page Information).
