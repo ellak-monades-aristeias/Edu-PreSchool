@@ -17,7 +17,7 @@ To .iso της διανομής λόγω μεγέθους (3.7GB) μπορείτ
 
 Περιγραφή: Διανομή Ubuntu εμπλουτισμένη με λογισμικά και υλικό για την Προσχολική Αγωγή
 
-Διανομή: Το .iso της διανομής που έχουμε δημιουργήσει είναι διαθέσιμο [εδώ] (https://drive.bitcasa.com/send/iqEhvqqf79MSpMGEi67EOSaiilGkRQ9egmM0vAo2IpaW)
+Διανομή: Το .iso της διανομής που έχουμε δημιουργήσει είναι διαθέσιμο [εδώ] (https://www.dropbox.com/s/8cppnu6ld8pf39o/Edu-Preschool.iso)
 
 # Edu-PreSchool
 <p align="center">
