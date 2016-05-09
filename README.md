@@ -25,4 +25,4 @@ To .iso της διανομής λόγω μεγέθους (3.7GB) μπορείτ
 </p>
 <p align="justify">
 
-Edu-PreSchool is a distribution for the Preschool Education, which contains all approved by the Greek Ministry of Education software and other digital material (eg, ebooks) and popular software that is free for use online. The .iso distribution due to size (3.7GB) can be downloaded from the wiki (page Information).
+Edu-PreSchool is a distribution for the Preschool Education, which contains all approved by the Greek Ministry of Education software and other digital material (eg, ebooks) and popular software that is free for use online. The .iso distribution due to size (3.7GB) can be downloaded from the [wiki] (https://github.com/ellak-monades-aristeias/Edu-PreSchool/wiki/1.-%CE%A0%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82) (page Information).
